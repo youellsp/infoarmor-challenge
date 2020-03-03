@@ -24,6 +24,26 @@
   color: white;
 }
 
+.header{
+  font-size: 48px;
+  color: #61dafb;
+  font-weight: 700;
+}
+
+.coconut-answer{
+  margin: 16px;
+  color: #61dafb;
+}
+
+code{
+  padding: 32px;
+  margin: 32px;
+  font-size: 16px;
+  border-radius: 8px;
+  background-color: beige;
+  color: #282c34;
+}
+
 .App-link {
   color: #61dafb;
 }
